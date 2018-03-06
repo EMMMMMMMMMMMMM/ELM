@@ -61,7 +61,6 @@ vue2 + vue-router2 + webpack2 + vue-cli2 + vue-resource + stylus + flex + eslint
 - Sticky footers http://www.w3cplus.com/css3/css-secrets/sticky-footers.html
 - Flex弹性布局: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
 - localStorage本地存储: http://www.cnblogs.com/st-leslie/p/5617130.html
-- 最后：本项目有付费视频课程，戳这里：http://coding.imooc.com/class/74.html
 
 
 
